@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"name": "Horse",
+		"sound": "Sounds/Horse.mp3",
+		"image": "horse.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Pig",
+		"sound": "Sounds/Pig.mp3",
+		"image": "pig.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Cow",
+		"sound": "Sounds/Cow.mp3",
+		"image": "cow.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Bird",
+		"sound": "Sounds/Bird.mp3",
+		"image": "bird.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Monkey",
+		"sound": "Sounds/Monkey.mp3",
+		"image": "monkey.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Goat",
+		"sound": "Sounds/Goat.mp3",
+		"image": "goat.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Lizard",
+		"sound": "//www.google.com/logos/fnbx/animal_sounds/lizard.mp3",
+		"image": "lizard.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Gorilla",
+		"sound": "//www.google.com/logos/fnbx/animal_sounds/ape.mp3",
+		"image": "gorilla.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Chicken",
+		"sound": "//www.google.com/logos/fnbx/animal_sounds/rooster.mp3",
+		"image": "chicken.jpg"
+	}
+]

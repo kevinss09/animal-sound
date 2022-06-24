@@ -1,0 +1,160 @@
+		<section className="all">
+			<h1 className="text-center text-5xl ">
+				Try all the animal sound we have
+			</h1>
+
+			<div className="container my-16 grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-16 justify-center items-center ">
+				{/* Start of one card */}
+				<div className="card flex flex-col justify-center items-center bg-white w-3/4 rounded-md mx-12">
+					<div className="h-80 mt-8 mr-6 ml-6 mb-4">
+						<img
+							src="/images/horse.jpg"
+							alt=""
+							className="object-cover w-full h-full"
+						/>
+					</div>
+					<div className="bot-card flex items-center justify-center m-1">
+						<h2 className="text-3xl">Horse</h2>
+					</div>
+				</div>
+				{/* End of one card */}
+
+				{/* Start of one card */}
+				<div className="card flex flex-col bg-white items-center justify-center mx-16 rounded-md ">
+					<div className="h-80 mt-8 mr-8 ml-8 mb-4">
+						<img
+							src="/images/pig.jpg"
+							alt=""
+							className="object-cover w-full h-full"
+						/>
+					</div>
+					<div className="bot-card flex items-center justify-center m-1">
+						<h2 className="text-3xl">Pig</h2>
+					</div>
+				</div>
+				{/* End of one card */}
+			</div>
+		</section>
+
+
+		// tkt ilang 
+
+		<div className="card flex items-center justify-center">
+					<button value="Pig" onClick={() => handleClick("Pig")}>
+						<div className="bg-white w-64 h-80 rounded-md">
+							<img
+								src="/images/pig.jpg"
+								alt=""
+								className="object-cover w-full h-5/6 rounded-t-md"
+							/>
+							<div className="bot-card flex items-center justify-center m-1">
+								<h2 className="text-3xl">Pig</h2>
+							</div>
+						</div>
+					</button>
+				</div>
+
+				<div className="card flex items-center justify-center">
+					<button value="Cow" onClick={() => handleClick("Cow")}>
+						<div className="bg-white w-64 h-80 rounded-md">
+							<img
+								src="/images/cow.jpg"
+								alt=""
+								className="object-cover w-full h-5/6 rounded-t-md"
+							/>
+							<div className="bot-card flex items-center justify-center m-1">
+								<h2 className="text-3xl">Cow</h2>
+							</div>
+						</div>
+					</button>
+				</div>
+
+				<div className="card flex items-center justify-center">
+					<button value="Bird" onClick={() => handleClick("Bird")}>
+						<div className="bg-white w-64 h-80 rounded-md">
+							<img
+								src="/images/bird.jpg"
+								alt=""
+								className="object-cover w-full h-5/6 rounded-t-md"
+							/>
+							<div className="bot-card flex items-center justify-center m-1">
+								<h2 className="text-3xl">Bird</h2>
+							</div>
+						</div>
+					</button>
+				</div>
+
+				<div className="card flex items-center justify-center">
+					<button value="Monkey" onClick={() => handleClick("Monkey")}>
+						<div className="bg-white w-64 h-80 rounded-md">
+							<img
+								src="/images/monkey.jpg"
+								alt=""
+								className="object-cover w-full h-5/6 rounded-t-md"
+							/>
+							<div className="bot-card flex items-center justify-center m-1">
+								<h2 className="text-3xl">Monkey</h2>
+							</div>
+						</div>
+					</button>
+				</div>
+
+				<div className="card flex items-center justify-center">
+					<button value="Goat" onClick={() => handleClick("Goat")}>
+						<div className="bg-white w-64 h-80 rounded-md">
+							<img
+								src="/images/goat.jpg"
+								alt=""
+								className="object-cover w-full h-5/6 rounded-t-md"
+							/>
+							<div className="bot-card flex items-center justify-center m-1">
+								<h2 className="text-3xl">Goat</h2>
+							</div>
+						</div>
+					</button>
+				</div>
+
+				<div className="card flex items-center justify-center">
+					<button value="Goat" onClick={() => handleClick("Goat")}>
+						<div className="bg-white w-64 h-80 rounded-md">
+							<img
+								src="/images/goat.jpg"
+								alt=""
+								className="object-cover w-full h-5/6 rounded-t-md"
+							/>
+							<div className="bot-card flex items-center justify-center m-1">
+								<h2 className="text-3xl">Goat</h2>
+							</div>
+						</div>
+					</button>
+				</div>
+
+				<div className="card flex items-center justify-center">
+					<button value="Goat" onClick={() => handleClick("Goat")}>
+						<div className="bg-white w-64 h-80 rounded-md">
+							<img
+								src="/images/goat.jpg"
+								alt=""
+								className="object-cover w-full h-5/6 rounded-t-md"
+							/>
+							<div className="bot-card flex items-center justify-center m-1">
+								<h2 className="text-3xl">Goat</h2>
+							</div>
+						</div>
+					</button>
+				</div>
+
+				<div className="card flex items-center justify-center">
+					<button value="Goat" onClick={() => handleClick("Goat")}>
+						<div className="bg-white w-64 h-80 rounded-md">
+							<img
+								src="/images/goat.jpg"
+								alt=""
+								className="object-cover w-full h-5/6 rounded-t-md"
+							/>
+							<div className="bot-card flex items-center justify-center m-1">
+								<h2 className="text-3xl">Goat</h2>
+							</div>
+						</div>
+					</button>
+				</div>
